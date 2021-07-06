@@ -1,2 +1,2 @@
 # I-coder-forum
-It is a forum in which there are variou articles and information regarding forums.
+It is a forum in which there are variou articles and information regarding programming languages.
